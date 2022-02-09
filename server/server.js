@@ -104,4 +104,4 @@ app.prepare().then(async () => {
   server.listen(port, () => {
     console.log(`> Ready on http://localhost:${port}`);
   });
-});
+});    
